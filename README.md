@@ -1,5 +1,4 @@
 # 프리 온보딩 선발/기업 과제
-![image](https://user-images.githubusercontent.com/86637320/160391109-0ef03c0f-29d4-43bf-bfb6-e3906eb7605d.png)
 
 [Wanted 프리온보딩 AI/ML 코스](https://www.wanted.co.kr/events/pre_onboarding_course_9)에서 수행한 선발/기업 과제들을 정리합니다.
 
