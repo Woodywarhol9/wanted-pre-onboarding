@@ -23,6 +23,7 @@
 [기업 과제4](https://github.com/Woodywarhol9/wanted_pre_onboarding/tree/main/%EA%B8%B0%EC%97%85%EA%B3%BC%EC%A0%9C4) : 스포츠 기사 `요약문 생성` 및 `평가 지표` 개발
 
 ---
+[일일 과제](https://github.com/Woodywarhol9/wanted-pre-onboarding/tree/main/%EC%9D%BC%EC%9D%BC%EA%B3%BC%EC%A0%9C)
 
 ##### Week 2 - 1
 `huggingface`에서 pretrained `tokenizer`, `bert` 를 불러와 구조 확인
